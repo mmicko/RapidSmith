@@ -1,4 +1,9 @@
 Release Notes for BYU RapidSmith Tools
+=== Version 0.5.3 (31 MAY 2018) ===
+ + Changes distribution license from GPL 2.0 to Apache 2.0
+ + Fixes some issues related to device files
+ + A few other bugs were fixed.  See SVN commit log for more details.
+
 === Version 0.5.2 (26 AUG 2013) ===
  + Adds preliminary support for Artix 7 and Zynq devices.
  + Adds preliminary support for the inout pin type found in Zynq
